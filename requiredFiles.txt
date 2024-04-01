@@ -1,0 +1,10 @@
+navbar 
+landing page 
+marquee
+about page 
+playful 
+cards section 
+cards section
+ready-to-start 
+footer 
+
